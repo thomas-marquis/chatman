@@ -1,0 +1,12 @@
+{
+  "parametersAlias": {
+    "genre": "g",
+    "title": "t",
+    "director": "d"
+  },
+  "usersays": [
+    "j'aime les films avec de l'{action|g} et du {suspens|g}",
+    "je veux voir un {star wars|t}",
+    "je cherche un film d'{action|g} de {denis villeneuve|d}"
+  ]
+}
